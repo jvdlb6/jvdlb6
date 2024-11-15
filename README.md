@@ -29,6 +29,7 @@ Aqui estão algumas das ferramentas e tecnologias que utilizo:
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps">
 </div>
+
 ---
 
 ## 📝 **Currículum**
