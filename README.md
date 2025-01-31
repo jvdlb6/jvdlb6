@@ -35,7 +35,8 @@ Aqui estão algumas das ferramentas e tecnologias que utilizo:
 ## 📝 **Currículum**
 
 Aqui você pode encontrar meu currículum para download!  
-- [![Download Currículo](https://img.shields.io/badge/-Baixar%20Currículo-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](curriculum.pdf) 
+- [![Download Currículo](https://img.shields.io/badge/-Baixar%20Currículo-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([Curriculum-310125.pdf](https://github.com/user-attachments/files/18618552/Curriculum-310125.pdf)) 
+
 
 ---
 
